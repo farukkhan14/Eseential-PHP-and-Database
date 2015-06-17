@@ -21,7 +21,7 @@
 			echo "Wrong Input";
 			break;
 	}
-
+echo "Hello";
 
 	 ?>
 </body>
